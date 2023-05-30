@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yosef
 #### Software Engineering
-I am a dedicated healthcare and software professional, driven by a strong passion for making a positive impact with a user-centric approach and with the end user in mind.
+I am a dedicated healthcare and software professional, driven by a strong passion for making a positive impact with the end-user always in mind.
 
 
 - 🔭 I’m currently working on a dynamic application to explore new constellations 
