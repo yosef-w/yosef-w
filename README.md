@@ -11,8 +11,6 @@ I am a dedicated healthcare and software professional, driven by a strong passio
 - ⚡ Fun fact: I'm an avid reader and rock climber 🧗‍♂️ 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yosef-w&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=yosef-w)  
 
 <h3 align="left">Languages and Tools:</h3>
